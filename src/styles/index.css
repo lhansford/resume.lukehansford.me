@@ -21,6 +21,7 @@ section {
   display: grid;
   grid-template-columns: 200px 1fr;
   gap: 1rem;
+  margin-block-start: 2rem;
 
   div:has(+ h2) {
     display: flex;

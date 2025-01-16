@@ -12,11 +12,10 @@
   <section>
     <section-header>Work experience</section-header>
     <work-experience-entry webc:for="item of roles" @entry="item"></work-experience-entry>
-    <div>2022-2023</div>
-    <div>blah blah</div>
   </section>
   <section>
     <section-header>Education</section-header>
+    <education-entry webc:for="item of education" @entry="item"></education-entry>
   </section>
   <section>
     <section-header>Other projects</section-header>

@@ -1,0 +1,24 @@
+[
+  {
+    "qualification": "BSc (Hons) Computer Science",
+    "institution": "University of Hertfordshire",
+    "result": "pretty good",
+    "startDate": "2009-09-01",
+    "endDate": "2012-06-01",
+    "description": "I studied a range of topics including software engineering, computer networks, databases, and artificial intelligence. My final year project was a web application that used machine learning to predict the outcome of football matches."
+  },
+  {
+    "qualification": "BSc (Hons) Computer Science",
+    "institution": "University of Hertfordshire",
+    "startDate": "2009-09-01",
+    "endDate": "2012-06-01",
+    "description": "I studied a range of topics including software engineering, computer networks, databases, and artificial intelligence. My final year project was a web application that used machine learning to predict the outcome of football matches."
+  },
+  {
+    "qualification": "BSc (Hons) Computer Science",
+    "institution": "University of Hertfordshire",
+    "startDate": "2009-09-01",
+    "endDate": "2012-06-01",
+    "description": "I studied a range of topics including software engineering, computer networks, databases, and artificial intelligence. My final year project was a web application that used machine learning to predict the outcome of football matches."
+  }
+]
