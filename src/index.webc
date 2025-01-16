@@ -1,0 +1,36 @@
+<html lang="en">
+
+<head>
+  <title>Resume of Luke Hansford</title>
+  <link rel="stylesheet" href="/styles/index.css" webc:keep>
+</head>
+
+<body>
+  <header>
+    <h1>Luke Hansford</h1>
+  </header>
+  <section>
+    <section-header>Work experience</section-header>
+    <work-experience-entry webc:for="item of roles" @entry="item"></work-experience-entry>
+    <div>2022-2023</div>
+    <div>blah blah</div>
+  </section>
+  <section>
+    <section-header>Education</section-header>
+  </section>
+  <section>
+    <section-header>Other projects</section-header>
+  </section>
+  <section>
+    <section-header>Skills</section-header>
+  </section>
+  <section>
+    <section-header>Languages</section-header>
+  </section>
+  <footer>
+    <a href="mailto:mail@lukehansford.me">mail@lukehansford.me</a>
+    <a href="https://lukehansford.me">lukehansford.me</a>
+  </footer>
+</body>
+
+</html>
