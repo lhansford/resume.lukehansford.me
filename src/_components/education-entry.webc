@@ -1,9 +1,9 @@
 <div>Date</div>
 <div>
   <div>
-    <span @text="item.qualification"></span>,
-    <span @text="item.institution"></span>,
-    <span @text="item.result"></span>
+    <span class="qualification" @text="item.qualification"></span>,
+    <span class="institution" @text="item.institution"></span>,
+    <span class="result" @text="item.result"></span>
   </div>
   <p @text="item.description"></p>
 </div>

@@ -19,12 +19,17 @@
   </section>
   <section>
     <section-header>Other projects</section-header>
+    <project-entry webc:for="item of otherProjects" @entry="item"></project-entry>
   </section>
   <section>
     <section-header>Skills</section-header>
+    <skills-entry :@skills="skills.advanced">Advanced</skills-entry>
+    <skills-entry :@skills="skills.intermediate">Intermediate</skills-entry>
+    <skills-entry :@skills="skills.basic">Basic</skills-entry>
   </section>
   <section>
     <section-header>Languages</section-header>
+    <language-entry webc:for="item of languages" :@language="item.language" :@level="item.level"></language-entry>
   </section>
   <footer>
     <a href="mailto:mail@lukehansford.me">mail@lukehansford.me</a>

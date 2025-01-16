@@ -1,0 +1,2 @@
+<div class="language" @text="language"></div>
+<div @text="level"></div>

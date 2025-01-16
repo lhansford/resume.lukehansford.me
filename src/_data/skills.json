@@ -1,0 +1,5 @@
+{
+  "advanced": ["Javascript/NodeJS", "Typescript", "React", "Redux", "GraphQL", "Apollo", "NextJS", "Express", "MongoDB", "PostgreSQL", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "CI/CD", "TDD", "DDD", "Microservices", "Serverless", "Websockets", "WebRTC"],
+  "intermediate": ["Lol"],
+  "basic": ["Test"]
+}

@@ -1,8 +1,8 @@
 <div>Date</div>
 <div>
   <div>
-    <span @text="item.jobTitle"></span>,
-    <span @text="item.company"></span>,
+    <span class="job-title" @text="item.jobTitle"></span>,
+    <span class="company" @text="item.company"></span>,
     <span @text="item.location"></span>
   </div>
   <p @text="item.roleDescription"></p>

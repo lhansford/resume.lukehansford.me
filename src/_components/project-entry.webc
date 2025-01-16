@@ -1,0 +1,5 @@
+<div>Date</div>
+<div>
+  <div class="project-title" @text="item.title"></div>
+  <p @text="item.description"></p>
+</div>
