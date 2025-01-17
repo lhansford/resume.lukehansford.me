@@ -1,2 +1,2 @@
 <div><slot></slot></div>
-<div @text="skills.join(', ')"></div>
+<div class="skills" @text="skills.join(', ')"></div>

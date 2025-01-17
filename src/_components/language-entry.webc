@@ -1,2 +1,2 @@
 <div class="language" @text="language"></div>
-<div @text="level"></div>
+<div class="language-level" @text="level"></div>

@@ -1,5 +1,5 @@
 {
-  "advanced": ["Javascript/NodeJS", "Typescript", "React", "Redux", "GraphQL", "Apollo", "NextJS", "Express", "MongoDB", "PostgreSQL", "Docker", "Kubernetes", "AWS", "GCP", "Azure", "CI/CD", "TDD", "DDD", "Microservices", "Serverless", "Websockets", "WebRTC"],
-  "intermediate": ["Lol"],
-  "basic": ["Test"]
+  "advanced": ["Javascript/Node", "Typescript", "React", "NextJS", "Python", "HTML", "CSS", "Ruby/Rails", "AWS", "Terraform", "Shell", "SQL", "GraphQL"],
+  "intermediate": ["Java", "GCP", "Vue", "Svelte", "Go", "Web Components"],
+  "basic": ["Haskell", "Elixir", "Rust"]
 }

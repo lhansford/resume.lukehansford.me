@@ -6,10 +6,10 @@
     <span @text="item.location"></span>
   </div>
   <p @text="item.roleDescription"></p>
-  <div class="job-projects" webc:if="item.projects">
-    <div>Notable projects:</div>
-    <ul>
-      <li webc:for="project of item.projects" @text="project.description"></li>
-    </ul>
-  </div>
+</div>
+<div class="job-projects" webc:if="item.projects">
+  <div>Notable projects:</div>
+  <ul>
+    <li webc:for="project of item.projects" @text="project.description"></li>
+  </ul>
 </div>

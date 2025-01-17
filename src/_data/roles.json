@@ -3,25 +3,118 @@
     "jobTitle": "Engineering Manager, Platform",
     "company": "Fishbrain",
     "location": "Stockholm",
-    "startDate": "2022-08-01",
+    "startDate": "2022-08",
     "roleDescription": "This role saw me leading Fishbrain’s Platform team, which is responsible for the infrastructure supporting our client apps with over 16 million users, as well as helping to improve the architecture of those apps and the experience of developers working on them. I have led the growth of the team from one Infrastructure engineer to a cross-functional team of 6 infrastructure, backend, and mobile engineers. This is a hands-on role where I spend at least half my time working with technologies as diverse as Typescript, Ruby, Terraform, Docker, and more.",
     "projects": [
-      { "description": "Leading the team to reduce our cloud costs by 40% while maintaining the same level of performance and developer experience." },
-      { "description": "A no-downtime migration of our production databases from MySQL to PostgreSQL." }
+      {
+        "description": "Leading the team to reduce our cloud costs by 40% while maintaining the same level of performance and developer experience."
+      },
+      {
+        "description": "A no-downtime migration of our production databases from MySQL to PostgreSQL."
+      },
+      {
+        "description": "Implemented a robust caching layer for our web app that utilised Redis/Valkey and NextJS."
+      },
+      {
+        "description": "Rewrote our content moderation system to meet EU regulations."
+      },
+      {
+        "description": "Designed and implemented a consistent and repeatable way for our engineers to deploy microservices and serverless functions."
+      },
+      {
+        "description": "Collaborated with the backend engineers in the company to continuously improve the performance of our Ruby API."
+      },
+      {
+        "description": "Extended our observability platform to our mobile apps using Datadog."
+      },
+      {
+        "description": "Implemented and evangelised a number of processes for the engineering organisation, including RFCs for architecture decisions, a consistent process for dependency and security updates, and SLOs to ensure expected performance levels."
+      },
+      {
+        "description": "Built a number of internal development tools using assorted languages and frameworks, including Typescript, Ruby, React, Astro, Eleventy, and Terraform."
+      }
     ]
   },
   {
-    "jobTitle": "Engineering Manager, Platform",
+    "jobTitle": "Engineering Manager, Web",
     "company": "Fishbrain",
     "location": "Stockholm",
-    "startDate": "2022-08-01",
-    "roleDescription": "This role saw me leading Fishbrain’s Platform team, which is responsible for the infrastructure supporting our client apps with over 16 million users, as well as helping to improve the architecture of those apps and the experience of developers working on them. I have led the growth of the team from one Infrastructure engineer to a cross-functional team of 6 infrastructure, backend, and mobile engineers. This is a hands-on role where I spend at least half my time working with technologies as diverse as Typescript, Ruby, Terraform, Docker, and more."
+    "startDate": "2018-09",
+    "endDate": "2022-08",
+    "roleDescription": "I joined Fishbrain as a Backend Engineer and worked for a few months with Ruby/Rails and Go before transitioning to an Engineering Manager/Full-stack Engineer role. I was responsible for starting and building out fishbrain.com, as well as growing and leading the team working on it. During that time I've worked heavily with Typescript, React, GraphQL, Express, Serverless, and SEO optimisation, as well as growing in my management and recruitment skills. We now have 3 product teams working on the web and over half a million unique monthly users.",
+    "projects": [
+      {
+        "description": "Defined and implemented an SEO strategy that got us from thousands to hundreds of thousands monthly active users."
+      },
+      {
+        "description": "Led a migration of our app to the NextJS platform and Docker-based architecture."
+      },
+      {
+        "description": "Prototyped and help launch an e-commerce platform for Fishbrain."
+      },
+      {
+        "description": "Helped design and implement an authentication system based on AWS Cognito that could be used by external partners."
+      },
+      {
+        "description": "In collaboration with designers, developed an internal design system for use at Fishbrain using modern CSS and Tailwind."
+      },
+      {
+        "description": "Participated in the migration of our API from REST to GraphQL."
+      },
+      {
+        "description": "Implemented an integration with Contentful CMS to allow non-engineers to update our website."
+      },
+      {
+        "description": "Implented a subscription system for our web app using Stripe."
+      },
+      {
+        "description": "Designed and built a recommendation system used for suggesting users to follow."
+      },
+      {
+        "description": "Developed a growth framework for engineers at Fishbrain alongside fellow EMs."
+      },
+      {
+        "description": "Hired a number of developers, including juniors and interns who I helped to mentor in web best practices."
+      }
+    ]
   },
   {
-    "jobTitle": "Engineering Manager, Platform",
-    "company": "Fishbrain",
-    "location": "Stockholm",
-    "startDate": "2022-08-01",
-    "roleDescription": "This role saw me leading Fishbrain’s Platform team, which is responsible for the infrastructure supporting our client apps with over 16 million users, as well as helping to improve the architecture of those apps and the experience of developers working on them. I have led the growth of the team from one Infrastructure engineer to a cross-functional team of 6 infrastructure, backend, and mobile engineers. This is a hands-on role where I spend at least half my time working with technologies as diverse as Typescript, Ruby, Terraform, Docker, and more."
+    "jobTitle": "Lead Web Developer",
+    "company": "Klinify",
+    "location": "Singapore",
+    "startDate": "2014-11",
+    "endDate": "2018-07",
+    "roleDescription": "I joined Klinify, a medical application built on a Javascript/Python/CouchDB stack, as their first web developer, and eventually hired and led the team building and maintaining it. I was the lead developer on projects for companies such as Apple (clinic management software for employee clinics in Singapore), Microsoft (a prototype medical records app to help them enter the Vietnam market), and Asia Genomics (development of a web application to connect researchers with DNA donors). These various projects involved work on a wide spectrum of emerging web technologies, including handwriting and voice recognition, developing for situations with poor/intermittent internet coverage, and deploying applications across a diverse range of devices.",
+    "projects": [
+      {
+        "description": "Migrated the app from Coffeescript/Backbone.js to React and Flow."
+      },
+      {
+        "description": "Implemented robust offline capabilities for our app using CouchDB."
+      },
+      {
+        "description": "Built a handwriting feature for our app in collaboration with Apple Singapore as a demo for the iPad Pro that had recently been released."
+      },
+      {
+        "description": "Worked closely with doctors and nurses in clinics in SE Asia to understand their needs and pain points."
+      },
+      {
+        "description": "Worked with machine learning to help automate a process for clinics to predict inventory needs for different drugs."
+      }
+    ]
+  },
+  {
+    "jobTitle": "Teaching Assistant",
+    "company": "University of Queensland",
+    "location": "Brisbane",
+    "startDate": "2014-01",
+    "endDate": "2014-10"
+  },
+  {
+    "jobTitle": "Language Instructor",
+    "company": "Google",
+    "location": "Beijing",
+    "startDate": "2012",
+    "endDate": "2013"
   }
 ]

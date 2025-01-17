@@ -32,9 +32,11 @@
     <language-entry webc:for="item of languages" :@language="item.language" :@level="item.level"></language-entry>
   </section>
   <footer>
-    <a href="mailto:mail@lukehansford.me">mail@lukehansford.me</a>
+    <a href="mailto:mail@lukehansford.me"><img width="24" height="24" src="images/mail.svg" />mail@lukehansford.me</a>
     <span>&bull;</span>
-    <a href="https://lukehansford.me">lukehansford.me</a>
+    <a href="https://lukehansford.me"><img width="24" height="24" src="images/globe.svg" />lukehansford.me</a>
+    <span>&bull;</span>
+    <a href="https://github.com/lhansford"><img width="24" height="24" src="images/github.svg" />github.com/lhansford</a>
   </footer>
 </body>
 

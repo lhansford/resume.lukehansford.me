@@ -1,24 +1,24 @@
 [
   {
-    "qualification": "BSc (Hons) Computer Science",
-    "institution": "University of Hertfordshire",
-    "result": "pretty good",
-    "startDate": "2009-09-01",
-    "endDate": "2012-06-01",
-    "description": "I studied a range of topics including software engineering, computer networks, databases, and artificial intelligence. My final year project was a web application that used machine learning to predict the outcome of football matches."
+    "qualification": "Climate Change: Learning for Action",
+    "institution": "Terra.do",
+    "startDate": "2023-01",
+    "endDate": "2023-04",
+    "description": "12-week intensive program from Terra.do on climate and climate solutions in every major climate sector including: energy, policy, agriculture, sustainability, ESG, and climate finance."
   },
   {
-    "qualification": "BSc (Hons) Computer Science",
-    "institution": "University of Hertfordshire",
-    "startDate": "2009-09-01",
-    "endDate": "2012-06-01",
-    "description": "I studied a range of topics including software engineering, computer networks, databases, and artificial intelligence. My final year project was a web application that used machine learning to predict the outcome of football matches."
+    "qualification": "Masters of Information Technology",
+    "institution": "University of Queensland",
+    "result": "GPA 6.5 (from a possible 7.0)",
+    "startDate": "2013",
+    "endDate": "2014",
+    "description": "With specialisation in artificial intelligence, machine learning, and social and mobile computing."
   },
   {
-    "qualification": "BSc (Hons) Computer Science",
-    "institution": "University of Hertfordshire",
-    "startDate": "2009-09-01",
-    "endDate": "2012-06-01",
-    "description": "I studied a range of topics including software engineering, computer networks, databases, and artificial intelligence. My final year project was a web application that used machine learning to predict the outcome of football matches."
+    "qualification": "Bachelor of Arts",
+    "institution": "Griffith University",
+    "startDate": "2006",
+    "endDate": "2011",
+    "description": "Majored in 'Australia and the Asia-Pacific Region'."
   }
 ]
