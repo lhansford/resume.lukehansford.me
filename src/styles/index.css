@@ -1,11 +1,21 @@
 @import url('reset.css');
+@import url('print.css');
 
+:root {
+  --font-text: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
+  --font-heading: Bahnschrift, 'DIN Alternate', 'Franklin Gothic Medium', 'Nimbus Sans Narrow', sans-serif-condensed, sans-serif;
+}
 
 body {
   max-width: 960px;
   margin-inline: auto;
   margin-block: 2rem;
   padding-inline: 1rem;
+  font-family: var(--font-text);
+}
+
+h1, h2 {
+  font-family: var(--font-heading);
 }
 
 header {
@@ -40,6 +50,10 @@ section {
     align-items: center;
     margin-block-start: 0;
   }
+
+  p, li {
+    font-size: 0.9rem;
+  }
 }
 
 .job-title,
@@ -53,4 +67,29 @@ section {
 .institution,
 .result {
   font-style: italic;
+}
+
+.job-projects {
+  margin-block-start: 1rem;
+
+  div {
+    font-weight: bold;
+    font-size: 0.8rem;
+  }
+}
+
+footer {
+  display: flex;
+  margin-block: 4rem;
+  justify-content: center;
+  gap: 1rem;
+  color: grey;
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
 }

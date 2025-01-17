@@ -4,7 +4,11 @@
     "company": "Fishbrain",
     "location": "Stockholm",
     "startDate": "2022-08-01",
-    "roleDescription": "This role saw me leading Fishbrain’s Platform team, which is responsible for the infrastructure supporting our client apps with over 16 million users, as well as helping to improve the architecture of those apps and the experience of developers working on them. I have led the growth of the team from one Infrastructure engineer to a cross-functional team of 6 infrastructure, backend, and mobile engineers. This is a hands-on role where I spend at least half my time working with technologies as diverse as Typescript, Ruby, Terraform, Docker, and more."
+    "roleDescription": "This role saw me leading Fishbrain’s Platform team, which is responsible for the infrastructure supporting our client apps with over 16 million users, as well as helping to improve the architecture of those apps and the experience of developers working on them. I have led the growth of the team from one Infrastructure engineer to a cross-functional team of 6 infrastructure, backend, and mobile engineers. This is a hands-on role where I spend at least half my time working with technologies as diverse as Typescript, Ruby, Terraform, Docker, and more.",
+    "projects": [
+      { "description": "Leading the team to reduce our cloud costs by 40% while maintaining the same level of performance and developer experience." },
+      { "description": "A no-downtime migration of our production databases from MySQL to PostgreSQL." }
+    ]
   },
   {
     "jobTitle": "Engineering Manager, Platform",

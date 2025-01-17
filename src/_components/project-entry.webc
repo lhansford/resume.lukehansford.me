@@ -1,4 +1,4 @@
-<div>Date</div>
+<dates :@start="item.startDate" :@end="item.endDate"></dates>
 <div>
   <div class="project-title" @text="item.title"></div>
   <p @text="item.description"></p>

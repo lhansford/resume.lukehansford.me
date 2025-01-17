@@ -1,4 +1,4 @@
-<div>Date</div>
+<dates :@start="item.startDate" :@end="item.endDate"></dates>
 <div>
   <div>
     <span class="qualification" @text="item.qualification"></span>,

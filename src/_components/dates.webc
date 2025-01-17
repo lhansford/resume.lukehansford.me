@@ -1,0 +1,14 @@
+<script webc:setup>
+	function parseDate(date) {
+    if (!date) {
+      return "Now"
+    }
+
+    const [year, month] = date.split("-")
+    const monthStr = month ? new Date(0, month - 1).toLocaleString('default', { month: 'short' }) : ""
+    return [monthStr, year].join(" ")
+  }
+</script>
+<div>
+  <span @text="parseDate(start)"></span> - <span @text="parseDate(end)"></span>
+</div>
