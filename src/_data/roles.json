@@ -1,7 +1,7 @@
 [
   {
     "jobTitle": "Engineering Manager, Platform",
-    "company": "Fishbrain",
+    "company": "[Fishbrain](https://fishbrain.com)",
     "location": "Stockholm",
     "startDate": "2022-08",
     "roleDescription": "This role saw me leading Fishbrain’s Platform team, which is responsible for the infrastructure supporting our client apps with over 16 million users, as well as helping to improve the architecture of those apps and the experience of developers working on them. I have led the growth of the team from one Infrastructure engineer to a cross-functional team of 6 infrastructure, backend, and mobile engineers. This is a hands-on role where I spend at least half my time working with technologies as diverse as Typescript, Ruby, Terraform, Docker, and more.",
@@ -37,7 +37,7 @@
   },
   {
     "jobTitle": "Engineering Manager, Web",
-    "company": "Fishbrain",
+    "company": "[Fishbrain](https://fishbrain.com)",
     "location": "Stockholm",
     "startDate": "2018-09",
     "endDate": "2022-08",
@@ -80,7 +80,7 @@
   },
   {
     "jobTitle": "Lead Web Developer",
-    "company": "Klinify",
+    "company": "[Klinify](https://www.klinify.com/)",
     "location": "Singapore",
     "startDate": "2014-11",
     "endDate": "2018-07",
@@ -105,7 +105,7 @@
   },
   {
     "jobTitle": "Teaching Assistant",
-    "company": "University of Queensland",
+    "company": "[University of Queensland](https://www.uq.edu.au/)",
     "location": "Brisbane",
     "startDate": "2014-01",
     "endDate": "2014-10"

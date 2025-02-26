@@ -2,7 +2,7 @@
 <div>
   <div>
     <span class="qualification" @text="item.qualification"></span>,
-    <a class="institution" :href="item.institutionUrl" @text="item.institution"></a><span webc:if="item.result">,</span>
+    <span class="institution" @html="fromMarkdownInline(item.institution)"></span><span webc:if="item.result">,</span>
     <span class="result" @text="item.result"></span>
   </div>
   <p @text="item.description"></p>

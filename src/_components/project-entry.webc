@@ -1,5 +1,5 @@
 <dates :@start="item.startDate" :@end="item.endDate"></dates>
 <div>
-  <div class="project-title" @text="item.title"></div>
+  <span class="project-title" @html="fromMarkdownInline(item.title)"></span>
   <p @text="item.description"></p>
 </div>

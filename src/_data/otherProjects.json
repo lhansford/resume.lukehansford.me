@@ -1,12 +1,12 @@
 [
   {
-    "title": "Frequency Asia",
+    "title": "[Frequency Asia](https://frequency.asia/)",
     "description": "An online radio station/community for independent musicians throughout Asia. I was a co-founder, as well as the sole developer. The web application was created using React and Flask.",
     "startDate": "2015",
     "endDate": "2018"
   },
   {
-    "title": "Minimal Any.do Widget",
+    "title": "Minimal AnyDo Widget",
     "description": "A widget for the Android app Any.do with over 100,000 downloads on the Google Play Store.",
     "startDate": "2012",
     "endDate": "2013"
